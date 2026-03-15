@@ -17,5 +17,7 @@ Sprites
 - Hare: https://craftpix.net/freebies/free-top-down-hunt-animals-pixel-sprite-pack/
 - Hyena (enemy): https://craftpix.net/freebies/free-desert-enemy-sprite-sheets-pixel-art/
 
-* Original starter code was written by Dr. Karen Cochrane and David Han but the code was modified by Katelyn Nguyen to fit the Side Quest requirements.
-* Issue with old repository, created a new repo and copied in files from past commit before issues showed up, view commits via https://github.com/k32nguye/k32nguye_sidequest_W6
+Notes
+
+- Original starter code was written by Dr. Karen Cochrane and David Han but the code was modified by Katelyn Nguyen to fit the Side Quest requirements.
+- Issue with old repository, created a new repo and copied in files from past commit before issues showed up, view commits via https://github.com/k32nguye/k32nguye_sidequest_W6
